@@ -1,10 +1,10 @@
 # Visual Resources for Math of ML
 Links to resources I've used to better visualize core math concepts in my machine learning journey
 
-what's a tensor? - https://www.youtube.com/watch?v=f5liqUk0ZTw
+## What's a tensor? - https://www.youtube.com/watch?v=f5liqUk0ZTw
 
-https://youtu.be/JvS2triCgOY
+## How to calculate linear regression using least square method - https://youtu.be/JvS2triCgOY
 
-https://www.benfrederickson.com/numerical-optimization/
+## Numerical Optimization - https://www.benfrederickson.com/numerical-optimization/
 
-https://www.geogebra.org/m/xC6zq7Zv
+## Interactive Linear Regression - https://www.geogebra.org/m/xC6zq7Zv
