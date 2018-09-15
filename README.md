@@ -8,3 +8,5 @@ Links to resources I've used to better visualize core math concepts in my machin
 ## Numerical Optimization - https://www.benfrederickson.com/numerical-optimization/
 
 ## Interactive Linear Regression - https://www.geogebra.org/m/xC6zq7Zv
+
+## Gradient Descent and Cost Functions with Python https://youtu.be/vsWrXfO3wWw
