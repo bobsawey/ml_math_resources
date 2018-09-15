@@ -1,4 +1,4 @@
-# ml_math_resources
+# Visual Resources for Math of ML
 Links to resources I've used to better visualize core math concepts in my machine learning journey
 
 what's a tensor? - https://www.youtube.com/watch?v=f5liqUk0ZTw
